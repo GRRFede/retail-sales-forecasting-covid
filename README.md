@@ -78,4 +78,4 @@ pip install skforecast
 
 **Richard Federico Gil Romero**  
 Estudiante de Economía — Universidad Autónoma de Santo Domingo (UASD)  
-[LinkedIn](#) · [GitHub](#)
+[LinkedIn](www.linkedin.com/in/richard-federico-gil-romero-508286271) · github.com/GRRFede
